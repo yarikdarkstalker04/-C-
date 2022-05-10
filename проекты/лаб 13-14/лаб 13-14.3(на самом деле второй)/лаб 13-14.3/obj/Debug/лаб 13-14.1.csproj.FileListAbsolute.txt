@@ -1,0 +1,5 @@
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.1\bin\Debug\лаб 13-14.1.exe
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.1\bin\Debug\лаб 13-14.1.pdb
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.1\obj\Debug\лаб 13-14.1.exe
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.1\obj\Debug\лаб 13-14.1.pdb

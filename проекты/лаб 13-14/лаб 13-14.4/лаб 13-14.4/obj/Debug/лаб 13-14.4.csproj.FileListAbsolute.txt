@@ -1,0 +1,10 @@
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.4\bin\Debug\лаб 13-14.4.exe
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.4\bin\Debug\лаб 13-14.4.pdb
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.4\obj\Debug\лаб 13-14.4.exe
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 13-14.4\obj\Debug\лаб 13-14.4.pdb
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 13-14\лаб 13-14.4\лаб 13-14.4\obj\Debug\лаб 13-14.4.exe
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 13-14\лаб 13-14.4\лаб 13-14.4\obj\Debug\лаб 13-14.4.pdb
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 13-14\лаб 13-14.4\лаб 13-14.4\bin\Debug\лаб 13-14.4.exe
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 13-14\лаб 13-14.4\лаб 13-14.4\bin\Debug\лаб 13-14.4.pdb
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 13-14\лаб 13-14.4\лаб 13-14.4\obj\Debug\ResolveAssemblyReference.cache
