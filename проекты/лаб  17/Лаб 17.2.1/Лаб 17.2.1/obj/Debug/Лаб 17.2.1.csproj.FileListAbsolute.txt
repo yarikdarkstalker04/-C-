@@ -1,0 +1,10 @@
+C:\Users\GM\AppData\Local\Temporary Projects\Лаб 17.2.1\bin\Debug\Лаб 17.2.1.exe
+C:\Users\GM\AppData\Local\Temporary Projects\Лаб 17.2.1\bin\Debug\Лаб 17.2.1.pdb
+C:\Users\GM\AppData\Local\Temporary Projects\Лаб 17.2.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GM\AppData\Local\Temporary Projects\Лаб 17.2.1\obj\Debug\Лаб 17.2.1.exe
+C:\Users\GM\AppData\Local\Temporary Projects\Лаб 17.2.1\obj\Debug\Лаб 17.2.1.pdb
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб  17\Лаб 17.2.1\Лаб 17.2.1\obj\Debug\Лаб 17.2.1.exe
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб  17\Лаб 17.2.1\Лаб 17.2.1\obj\Debug\Лаб 17.2.1.pdb
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб  17\Лаб 17.2.1\Лаб 17.2.1\bin\Debug\Лаб 17.2.1.exe
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб  17\Лаб 17.2.1\Лаб 17.2.1\bin\Debug\Лаб 17.2.1.pdb
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб  17\Лаб 17.2.1\Лаб 17.2.1\obj\Debug\ResolveAssemblyReference.cache
