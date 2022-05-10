@@ -1,0 +1,6 @@
+C:\Users\GM\AppData\Local\Temporary Projects\лаб 12.2\obj\Debug\ResolveAssemblyReference.cache
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 12\лаб 12.2\лаб 12.2\лаб 12.2\bin\Debug\лаб 12.2.exe
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 12\лаб 12.2\лаб 12.2\лаб 12.2\bin\Debug\лаб 12.2.pdb
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 12\лаб 12.2\лаб 12.2\лаб 12.2\obj\Debug\ResolveAssemblyReference.cache
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 12\лаб 12.2\лаб 12.2\лаб 12.2\obj\Debug\лаб 12.2.exe
+C:\R.I.P. рабочий стол\учеба\КПИП\лаб 12\лаб 12.2\лаб 12.2\лаб 12.2\obj\Debug\лаб 12.2.pdb
