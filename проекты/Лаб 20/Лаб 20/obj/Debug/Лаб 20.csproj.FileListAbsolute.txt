@@ -1,0 +1,10 @@
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\bin\Debug\Лаб 20.exe.config
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\bin\Debug\Лаб 20.exe
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\bin\Debug\Лаб 20.pdb
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\obj\Debug\Лаб 20.csprojAssemblyReference.cache
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\obj\Debug\Лаб_20.Form1.resources
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\obj\Debug\Лаб_20.Properties.Resources.resources
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\obj\Debug\Лаб 20.csproj.GenerateResource.cache
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\obj\Debug\Лаб 20.csproj.CoreCompileInputs.cache
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\obj\Debug\Лаб 20.exe
+E:\учеба\КПИЯП\Лаб 20\Лаб 20\Лаб 20\obj\Debug\Лаб 20.pdb
