@@ -1,0 +1,16 @@
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\bin\Debug\netcoreapp3.1\Лаб 29.exe
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\bin\Debug\netcoreapp3.1\Лаб 29.deps.json
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\bin\Debug\netcoreapp3.1\Лаб 29.runtimeconfig.json
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\bin\Debug\netcoreapp3.1\Лаб 29.runtimeconfig.dev.json
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\bin\Debug\netcoreapp3.1\Лаб 29.dll
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\bin\Debug\netcoreapp3.1\Лаб 29.pdb
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.csproj.AssemblyReference.cache
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб_29.Form1.resources
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.csproj.GenerateResource.cache
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.AssemblyInfoInputs.cache
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.AssemblyInfo.cs
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.csproj.CoreCompileInputs.cache
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.dll
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.pdb
+E:\учеба\КПИЯП\Лаб 29\Лаб 29\Лаб 29\obj\Debug\netcoreapp3.1\Лаб 29.genruntimeconfig.cache
